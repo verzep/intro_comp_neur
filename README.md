@@ -1,0 +1,28 @@
+# Introduction to Computational Neuroscience
+
+
+## List of Tutorials
+
+
+### Day 1
+
+- Morning: [Linear algebra](https://colab.research.google.com/drive/1N6bhVuEH1toCFQopmJ4x9yLXr6k-4l5X?usp=sharing)
+- Afternoon: 1-dimensional systems
+
+### Day 2
+
+- Morning: [2-dimensional systems](https://colab.research.google.com/drive/1s3wxVc4zPe708eAUTHdivhShfjIszqLK?usp=sharing)
+- Afternoon: Phase Plane Analysis
+
+
+### Day 
+
+- Morning:  Nonlinear 2D differential equations
+- Afternoon: Neural Models
+
+
+### Day 4
+
+- Morning: Large-scale neural networks
+- Afternoon: SVD and PCA
+
