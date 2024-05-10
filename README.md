@@ -17,7 +17,7 @@
 
 ### Day 
 
-- Morning:  Nonlinear 2D differential equations
+- Morning:  [Nonlinear 2D differential equations](https://colab.research.google.com/drive/1LZ-oCGw7xN27XzTHM6MRoamwH6JgYLXK?usp=sharing)
 - Afternoon: Neural Models
 
 
