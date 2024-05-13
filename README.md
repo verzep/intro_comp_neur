@@ -12,10 +12,10 @@
 ### Day 2
 
 - Morning: [2-dimensional systems](https://colab.research.google.com/drive/1s3wxVc4zPe708eAUTHdivhShfjIszqLK?usp=sharing)
-- Afternoon: Phase Plane Analysis
+- Afternoon: [Phase Plane Analysis](https://drive.google.com/file/d/1CP3UiUfmyd2npNQO7qzwYo8t0-2UJfvW/view?usp=sharing)
 
 
-### Day 
+### Day 3
 
 - Morning:  [Nonlinear 2D differential equations](https://colab.research.google.com/drive/1LZ-oCGw7xN27XzTHM6MRoamwH6JgYLXK?usp=sharing)
 - Afternoon: Neural Models
