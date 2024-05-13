@@ -7,7 +7,7 @@
 ### Day 1
 
 - Morning: [Linear algebra](https://colab.research.google.com/drive/1N6bhVuEH1toCFQopmJ4x9yLXr6k-4l5X?usp=sharing)
-- Afternoon: 1-dimensional systems
+- Afternoon: [1-dimensional systems](https://colab.research.google.com/drive/1RkwTCausDIwKtazuW4MoJvCAoNCHO6B-)
 
 ### Day 2
 
