@@ -23,6 +23,6 @@
 
 ### Day 4
 
-- Morning: Large-scale neural networks
+- Morning: [Large-scale neural networks](https://colab.research.google.com/drive/1Fcbzx2CTJsM2UAe4bsExjsiTAbtHdm84?usp=sharing)
 - Afternoon: SVD and PCA
 
