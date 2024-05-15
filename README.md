@@ -18,7 +18,7 @@
 ### Day 3
 
 - Morning:  [Nonlinear 2D differential equations](https://colab.research.google.com/drive/1LZ-oCGw7xN27XzTHM6MRoamwH6JgYLXK?usp=sharing)
-- Afternoon: Neural Models (https://drive.google.com/file/d/1V7NQ0xtDpQ4HnGiaUUgrLsGiKO9_s_xL/view?usp=sharing)
+- Afternoon: [Neural Models] (https://drive.google.com/file/d/1V7NQ0xtDpQ4HnGiaUUgrLsGiKO9_s_xL/view?usp=sharing)
 
 
 ### Day 4
