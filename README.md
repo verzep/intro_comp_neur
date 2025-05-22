@@ -7,12 +7,12 @@
 ### Day 1
 
 - Morning: [Linear algebra](https://colab.research.google.com/drive/1KLJWe_FEasle5r4mzLZ6YENPOad5wD88?usp=sharing)
-- Afternoon: [1-dimensional systems](https://colab.research.google.com/drive/1RkwTCausDIwKtazuW4MoJvCAoNCHO6B-)
+- Afternoon: [1-dimensional systems](https://colab.research.google.com/drive/1PR1I0iDTKhbiBofzihWlqy6The6HFgRU?usp=sharing)
 
 ### Day 2
 
 - Morning: [2-dimensional systems](https://colab.research.google.com/drive/1P1gP1ZgIrpHi-OFOLPVvgn84_ph0Ai0Q?usp=sharing)
-- Afternoon: [Phase Plane Analysis](https://drive.google.com/file/d/1CP3UiUfmyd2npNQO7qzwYo8t0-2UJfvW/view?usp=sharing)
+- Afternoon: [Phase Plane Analysis](https://drive.google.com/file/d/1SXhEzGenAThRlp5YhUP-p3g3svRjbnEa/view?usp=sharing)
 
 
 ### Day 3
