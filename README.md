@@ -24,5 +24,5 @@
 ### Day 4
 
 - Morning: [Large-scale neural networks](https://colab.research.google.com/drive/1Fcbzx2CTJsM2UAe4bsExjsiTAbtHdm84?usp=sharing)
-- Afternoon: SVD and PCA
+- Afternoon: [SVD and PCA](https://colab.research.google.com/drive/1qO_zPrE9FaTgWjG7HHmStH8gcdwoMTgl?usp=sharing)
 
